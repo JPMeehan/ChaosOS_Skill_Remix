@@ -1,4 +1,4 @@
-$module = Get-Content .\chaosos-skill-remix\manifest.json | ConvertFrom-Json
+$module = Get-Content .\chaosos-skill-remix\module.json | ConvertFrom-Json
 $version = $module.version
 lessc "chaosos-skill-remix\chaosos-skill.less" "chaosos-skill-remix\chaosos-skill.css"
 if (test-path .\archive\$version\chaosos-skill-remix.zip) {
