@@ -5,7 +5,7 @@
     "systems": [
       "dnd5e"
     ],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Joseph Meehan (ChaosOS#1948)",
     "esmodules": [
       "chaosos-skill.js"
@@ -13,12 +13,16 @@
     "styles": [
       "chaosos-skill.css"
     ],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ],
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.6",
     "url": "https://github.com/JPMeehan/ChaosOS_Skill_Remix",
     "manifest":  "https://raw.githubusercontent.com/JPMeehan/ChaosOS_Skill_Remix/main/Module/module.json",
-    "download":  "https://github.com/JPMeehan/ChaosOS_Skill_Remix/releases/download/v0.0.1/chaosos-skill-remix.zip",
-    "license":   "https://github.com/JPMeehan/ChaosOS_Skill_Remix/archive/0.0.1/LICENSE",
-    "readme":    "https://github.com/JPMeehan/ChaosOS_Skill_Remix/archive/0.0.1/README.md",
-    "changelog": "https://github.com/JPMeehan/ChaosOS_Skill_Remix/archive/0.0.1/CHANGELOG.md"
+    "download":  "https://github.com/JPMeehan/ChaosOS_Skill_Remix/releases/download/v0.0.2/chaosos-skill-remix.zip"
   }
