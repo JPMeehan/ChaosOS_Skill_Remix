@@ -16,7 +16,7 @@
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.6",
     "url": "https://github.com/JPMeehan/ChaosOS_Skill_Remix",
-    "manifest": "https://raw.githubusercontent.com/JPMeehan/ChaosOS_Skill_Remix/master/module.json",
+    "manifest": "https://raw.githubusercontent.com/JPMeehan/ChaosOS_Skill_Remix/master/chaosos-skill-remix/module.json",
     "download": "https://github.com/JPMeehan/ChaosOS_Skill_Remix/archive/0.0.1/chaosos-skill-remix.zip",
     "license": "https://github.com/JPMeehan/ChaosOS_Skill_Remix/archive/0.0.1/LICENSE",
     "readme": "https://github.com/JPMeehan/ChaosOS_Skill_Remix/archive/0.0.1/README.md",
